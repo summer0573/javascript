@@ -1,0 +1,1 @@
+alert("hello javascript"); //alert > 상단에 경고창을 띄울 수 있다.
